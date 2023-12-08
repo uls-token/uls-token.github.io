@@ -1,2 +1,2 @@
-# uls-cash.github.io
-UNITS LIMITED SUPPLY
+# uls-token.github.io
+UNITS LIMITED SUPPLY (ULS) TOKEN
