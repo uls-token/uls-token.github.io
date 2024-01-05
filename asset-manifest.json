@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.784d446a.css",
-    "main.js": "/static/js/main.31fe59b5.js",
+    "main.js": "/static/js/main.553acf78.js",
     "static/js/774.ec5a3058.chunk.js": "/static/js/774.ec5a3058.chunk.js",
     "static/js/274.7d37891f.chunk.js": "/static/js/274.7d37891f.chunk.js",
     "static/media/map.png": "/static/media/map.cd3421d5d90f508631ca.png",
@@ -10,9 +10,11 @@
     "static/media/helvetica_regular.woff": "/static/media/helvetica_regular.e493933c57837215ebe0.woff",
     "static/media/helvetica_bold.woff2": "/static/media/helvetica_bold.3e200c952f36880bbc7d.woff2",
     "static/media/helvetica_regular.woff2": "/static/media/helvetica_regular.695156c4bbafc65dc2bf.woff2",
+    "static/media/rainbow.png": "/static/media/rainbow.f923d6c7148a52dc8f42.png",
     "static/media/289-font.woff": "/static/media/289-font.ef7ad8a7dba342eb2ce6.woff",
     "static/media/pancakeswap.png": "/static/media/pancakeswap.c57b77fe3e00d7d8f925.png",
     "static/media/arbitrum.png": "/static/media/arbitrum.23ecdd8bed46d1aefbb1.png",
+    "static/media/metamask.png": "/static/media/metamask.657f9d2fdeea33b9b2f8.png",
     "static/media/289-font.woff2": "/static/media/289-font.05d022fad5f5e3e75cf7.woff2",
     "static/media/kyberswap.ico": "/static/media/kyberswap.64b604113c3cc2c11048.ico",
     "static/media/wc.png": "/static/media/wc.cd978820dbd83c7bfbca.png",
@@ -42,12 +44,12 @@
     "static/media/social-6.svg": "/static/media/social-6.d4e8d8bc36b85f592afc78d47fc95036.svg",
     "static/media/x.svg": "/static/media/x.36b02bf9f4d6a3f63887b189af7758e8.svg",
     "main.784d446a.css.map": "/static/css/main.784d446a.css.map",
-    "main.31fe59b5.js.map": "/static/js/main.31fe59b5.js.map",
+    "main.553acf78.js.map": "/static/js/main.553acf78.js.map",
     "774.ec5a3058.chunk.js.map": "/static/js/774.ec5a3058.chunk.js.map",
     "274.7d37891f.chunk.js.map": "/static/js/274.7d37891f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.784d446a.css",
-    "static/js/main.31fe59b5.js"
+    "static/js/main.553acf78.js"
   ]
 }
